@@ -3,7 +3,7 @@
 
 ### General description (purpose)
 
-The **telkam** is an small demon that turns your Chinese IP camera into a "gadget" or "detector" - a device that 
+The **telkam** is an intellectual demon that turns your Chinese IP camera into a "gadget" or "detector" - a device that 
 detects motion in the frame and transmits photos and short video clips to the messenger Telegram on alarm or request. 
 
 It is important to note that this is not a streamer in the "classical sense", it does not transfer video stream to a 
