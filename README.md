@@ -10,8 +10,8 @@ detects motion in the frame and transmits photos and short video clips to the me
 It is important to note that this is not a streamer in the "classical sense", it does not transfer video stream to a 
 server/client in a constant mode, as in conventional IP-cameras.
 
-Supported hardware at the moment - camera module from XM (Xiongmai) IVG-G3S:
-GK7205v210(v200) + Sony IMX307, 16 MB flash, original firmware [000739AG](https://download.xm030.cn/d/MDAwMDE2NDU=).
+Supported hardware at the moment a some camera modules from XM (XiongMai):
+- IVG-G3S Goke GK7205v210 SoC + Sony IMX307 sensor + 16 MB NOR flash, original firmware [000739AG](https://download.xm030.cn/d/MDAwMDE2NDU=).
 
 
 ### Features
