@@ -35,7 +35,9 @@ periodically due to "wear and tear".
 
 - The “relay" and "alarm" outputs are organized, controlled from the telegram-bot, to which you can "hang actuators".
 
-- There are two endpoints `http://<ip_address>/image` and `rtsp://root:<pass>@<ip_address>/stream=0`, to get snapshots
-and video respectively.
+- There are two endpoints  and to get snapshots and video respectively:
+    - `http://root:<pass>@<ip_address>/image.jpg`
+    - `rtsp://root:<pass>@<ip_address>/stream=0`
+
 
 - The program can be installed quite easily on the OpenIPC platform just a few commands
